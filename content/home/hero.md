@@ -27,7 +27,7 @@ weight = 3
 
 Marie Dendievel
 <br>
-<small>A short description of myself here</small>
+<small>Biology student</small>
 <br><br>
 
 <script type="text/javascript">
