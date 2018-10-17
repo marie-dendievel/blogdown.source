@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Biology",
     "Animals",
-    "Cancer research"
+    "Cancer research",
+    "Sport"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -27,7 +28,7 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "Option Latin-Sciences"
+  course = "Latin-Sciences"
   institution = "Institut Saint-Charles"
   year = 2016
 
@@ -36,4 +37,5 @@ weight = 5
 # About Me
 
 I am student at the University of Mons, Belgium. I am currently in my second year.
+I do a lot of sport, I frequently run. 
 
