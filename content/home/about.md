@@ -36,6 +36,6 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium. I am currently in my second year.
-I do a lot of sport, I frequently run. 
+I am student at the University of Mons, Belgium. I am currently in my second year of biology.
+When I finish school, I do sport, I frequently run and sometimes I go to the gym.
 
