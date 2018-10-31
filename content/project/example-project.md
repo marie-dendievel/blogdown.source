@@ -6,7 +6,7 @@ date = "2018-09-24"
 title = "Immunothérapie"
 
 # Project summary to display on homepage.
-summary = "Définition de l'immunothérapie et son importance dans le traitement de cancers."
+summary = "Définition de l'immunothérapie et importance dans le traitement de cancers."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "drew-hays-206414-unsplash.jpg"
