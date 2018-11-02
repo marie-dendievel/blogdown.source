@@ -16,8 +16,7 @@ image_preview = "drew-hays-206414-unsplash.jpg"
 tags = ["science", "biology"]
 
 # Optional external URL for project (replaces project detail page).
-external_link ="https://www.cancer.be/les-cancers/traitements/immunoth-rapie",
-"http://www.chu.ulg.ac.be/jcms/c_1861999/fr/quelques-mots-sur-l-immunotherapie"
+external_link =
 
 
 # Does the project detail page use math formatting?
